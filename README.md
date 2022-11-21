@@ -18,11 +18,3 @@ now extract sourcecode in C:\xampp\htdocs and give foldername what you want.
 
 step 4:
 open browser and enter url as localhost/your folder name
-
-Admin login (or Receptionist)
-Username : sameer@gmail.com
-Password : admin
-
-Doctor login (or Receptionist)
-Username : hegde@gmail.com
-Password : hegde123
